@@ -1,9 +1,0 @@
-[
-    {"id": "p1", "category": "Refund", "title": "Standard Refund Policy", "content": "Refunds are processed within 7-10 business days after approval. To qualify, items must be returned in original packaging or reported as damaged within 48 hours of delivery."},
-    {"id": "p2", "category": "Refund", "title": "Refund Methods", "content": "Refunds are issued to the original payment method. If the original method is unavailable, a support ticket must be created for alternative arrangements."},
-    {"id": "p3", "category": "Shipping", "title": "Standard Delivery Timelines", "content": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days. Delays may occur due to weather or peak seasons."},
-    {"id": "p4", "category": "Shipping", "title": "Order Tracking", "content": "Users can check order status using the 'check_order_status' tool. If an order is marked as 'Delivered' but not received, please report it within 24 hours."},
-    {"id": "p5", "category": "Account Security", "title": "Unauthorized Access", "content": "If you suspect unauthorized access, reset your password immediately and contact support. We will never ask for your password via email."},
-    {"id": "p6", "category": "Payments", "title": "Failed Transactions", "content": "Failed transactions are typically reversed automatically by your bank within 5 business days. If the amount is still deducted, please provide the transaction reference ID."},
-    {"id": "p7", "category": "General", "title": "Escalation Policy", "content": "If an issue remains unresolved after two attempts or involves high-risk claims (fraud, legal), the case is escalated to a support specialist for priority resolution."}
-]
