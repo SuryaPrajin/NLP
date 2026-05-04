@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+torch
+faiss-cpu
+sentence-transformers
+numpy
+requests
+slowapi
+PyPDF2
+

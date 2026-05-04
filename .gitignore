@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+
+# Model & Logs
+backend/core/model_weights.pt
+backend/logs/
+*.log
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
